@@ -91,6 +91,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "persistencia-sqlite-fastapi",
+      "title": "Persistência com SQLite em uma API FastAPI",
+      "description": "Substitua o armazenamento em memória da API de livros por SQLite e teste a persistência com pytest.",
+      "path": "assignments/persistencia-sqlite-fastapi",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "API de livros com SQLite (starter)",
+          "file": "books_sqlite_api.py",
+          "type": "python"
+        },
+        {
+          "name": "Testes iniciais",
+          "file": "test_books_sqlite_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
