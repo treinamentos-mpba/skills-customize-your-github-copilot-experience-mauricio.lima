@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-with-pytest",
+      "title": "Testando APIs com pytest e FastAPI",
+      "description": "Pratique testes automatizados de APIs FastAPI com pytest e TestClient.",
+      "path": "assignments/testing-fastapi-with-pytest",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Aplicação FastAPI de livros",
+          "file": "books_api.py",
+          "type": "python"
+        },
+        {
+          "name": "Testes iniciais",
+          "file": "test_books_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
