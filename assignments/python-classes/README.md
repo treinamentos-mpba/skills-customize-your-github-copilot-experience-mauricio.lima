@@ -1,4 +1,4 @@
-# 📘 Tarefa: Classes em Python
+# 📘 Assignment: Classes em Python
 
 ## 🎯 Objective
 
