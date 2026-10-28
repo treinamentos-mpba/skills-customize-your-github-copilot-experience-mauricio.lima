@@ -1,11 +1,11 @@
 
-# 📘 Assignment: Fundamentos de Python
+# 📘 Atividade: Fundamentos de Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique habilidades fundamentais de programação em Python, incluindo entrada de dados do usuário, formatação de strings, operações aritméticas e instruções condicionais, implementando funções simples.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Entrada de Dados e Formatação de Strings
 

@@ -1,10 +1,10 @@
-# 📘 Assignment: Classes em Python
+# 📘 Atividade: Classes em Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Aprenda a definir e utilizar classes em Python para modelar objetos e comportamentos do mundo real.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Definir uma Classe Simples
 

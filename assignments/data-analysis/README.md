@@ -1,10 +1,10 @@
-# 📘 Assignment: Análise de Dados
+# 📘 Atividade: Análise de Dados
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Os alunos aprenderão os fundamentos da análise de dados usando Python. Eles irão carregar, explorar e analisar um conjunto de dados para extrair insights relevantes.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Carregamento e Exploração de Dados
 
